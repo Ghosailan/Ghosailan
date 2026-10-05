@@ -1,16 +1,46 @@
-## Hi there 👋
+# Ghaidaa Osailan
 
-<!--
-**Ghosailan/Ghosailan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation & LLM Specialist
 
-Here are some ideas to get you started:
+AI graduate focused on building LLM-powered applications, agentic AI systems, and intelligent workflow automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning AI concepts into practical software through **Python, LLMs, AI agents, RAG, APIs, and workflow automation**.
+
+## Featured Projects
+
+### CANDAS AI
+
+Agentic AI platform for end-to-end marketing campaign automation — from campaign strategy and content generation to approval, scheduling, publishing, and analytics.
+
+**Python · FastAPI · LangGraph · PostgreSQL · Celery · React · Docker**
+
+### ChatBot
+
+AI-powered conversational application combining LLM capabilities, RAG, backend APIs, and a modern web interface.
+
+**Python · RAG · APIs · Next.js · TypeScript**
+
+## Research
+
+**UniMate: A Bilingual Hybrid AI System for Academic Advising and Transcript Analysis**
+
+Research presented at the **First International Conference on Technological and Engineering Innovation for Sustainability (SusTAIN 2026)** and accepted for publication.
+
+## Technical Skills
+
+**AI & LLMs**
+LLMs · Prompt Engineering · AI Agents · NLP · RAG · Machine Learning · Deep Learning · Computer Vision
+
+**Automation & Integration**
+n8n · Workflow Automation · API Integration · Database Integration · Data Processing
+
+**Development**
+Python · JavaScript · HTML · CSS · FastAPI · React · Next.js
+
+**Tools**
+Git · GitHub · Docker · Figma · Visual Studio Code
+
+## Education
+
+**B.Sc. in Artificial Intelligence**
+University of Prince Mugrin · 2026
